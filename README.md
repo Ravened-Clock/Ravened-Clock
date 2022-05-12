@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ravened-Clock, a rookie coder
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning ... coding, of course;)
+- 👋 Howdy, It's @Ravened-Clock
+- 👀 I’m interested in learning programming( and English as well)
 
 <!---
 Ravened-Clock/Ravened-Clock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
