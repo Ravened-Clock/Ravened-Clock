@@ -1,4 +1,4 @@
-- 👋 Howdy, It's @Ravened-Clock
+- 👋 Greetings, it's @Ravened-Clock
 - 👀 I’m interested in learning programming( and English as well)
 
 <!---
